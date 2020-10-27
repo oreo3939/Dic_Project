@@ -1,4 +1,12 @@
-# 卒業課題
+# 静止画から動画を作成
+
+## コンセプト
+
+## ポイント
+
+## 動作方法
+
+## 環境
 
 学習済みモデルやtestデータなどが[こちら](https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)のGoogle Driveで公開されている。
 
