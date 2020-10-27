@@ -1,1 +1,1 @@
-# Dic_Project
+# Dic_Graduation_Project
