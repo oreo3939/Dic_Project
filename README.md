@@ -1,4 +1,4 @@
-# Dic_Graduation_Project
+# 卒業課題
 
 学習済みモデルやtestデータなどが[こちら](https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)のGoogle Driveで公開されている。
 
