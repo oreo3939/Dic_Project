@@ -1,5 +1,7 @@
 # Dic_Graduation_Project
 
-ここからhttps://drive.google.com/drive/folders/16inDpBRPT1UC0YMGMX3dKvRnOUsf5Dhn
+学習済みモデルやtestデータなどが[こちら](https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)のGoogle Driveで公開されている。
 
-vox-cpk.pth.tar、必要ならvox-adv-cpk.pth.tarをDL
+自分のGoogle Driveの直下にfirst-order-motion-modelというフォルダを作成し、公開されているGoogle Drive内のそれぞれのファイルのコピーを作成し、
+それをfirst-order-motion-modelフォルダに移動する
+
