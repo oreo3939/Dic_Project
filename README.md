@@ -1,4 +1,4 @@
-# 静止画から動画を作成
+# 静止画から動画を作成(作成中)
 
 ## 背景
 
@@ -13,15 +13,14 @@
 ## 概要
 
  ### ・最愛の人の静止画から動画を作成しよう
+  ・FOMMをwebアプリで動作させよう
 
-## ポイント
-
-## 動作方法
+## 現在の問題点
+ ・
 
 ## 環境
 
-学習済みモデルやtestデータなどが[こちら](https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)のGoogle Driveで公開されている。
+　・学習済みモデルやtestデータなどが[こちら](https://drive.google.com/drive/folders/1kZ1gCnpfU0BnpdU47pLM_TQ6RypDDqgw)のGoogle Driveで公開されている。
 
-自分のGoogle Driveの直下にfirst-order-motion-modelというフォルダを作成し、公開されているGoogle Drive内のそれぞれのファイルのコピーを作成し、
-それをfirst-order-motion-modelフォルダに移動する
+　・自分のGoogle Driveの直下にfirst-order-motion-modelというフォルダを作成し、公開されているGoogle Drive内のそれぞれのファイルのコピーを作成し、それをfirst-order-motion-modelフォルダに移動する
 
