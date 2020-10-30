@@ -6,7 +6,8 @@
 ![](https://user-images.githubusercontent.com/73522021/97411942-3d30a200-1944-11eb-8efc-43dbe1836b51.gif)
 
 ・FOMMの中身
-![](![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_209705_4a90e42f-47bb-a26b-19b3-dc6c66289e06](https://user-images.githubusercontent.com/73522021/97694020-60df1e00-1ae5-11eb-9c38-968c0e75fc27.png)
+
+![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_209705_4a90e42f-47bb-a26b-19b3-dc6c66289e06](https://user-images.githubusercontent.com/73522021/97694020-60df1e00-1ae5-11eb-9c38-968c0e75fc27.png)
 
 ・大きく分けてMotion ModuleとGeneration Moduleの２つで構成されている。
 
