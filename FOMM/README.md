@@ -1,6 +1,6 @@
 # 静止画から動画を作成
 
-##　概要
+## 概要
 
 ・静止画から動画を作成
 ![](https://user-images.githubusercontent.com/73522021/97411942-3d30a200-1944-11eb-8efc-43dbe1836b51.gif)
